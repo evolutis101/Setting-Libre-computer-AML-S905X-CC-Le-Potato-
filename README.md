@@ -11,10 +11,10 @@
 https://distro.libre.computer/ci/ubuntu/22.04/
 when downloading the file consists of operating system - version - preinstalled - _____ - hardware device .img.xz that is why the following file was download
 ubuntu-22.04.2-preinstalled-desktop-arm64+aml-s905x-cc.img.xz 
-make sure that the file window view is set  in the file set extention 
+make sure that the file window view is set  in the file set extension 
 ![Screenshot 2023-09-25 151936](https://github.com/evolutis101/Setting-Libre-computer-AML-S905X-CC-Le-Potato-/assets/36013919/8ae8ec65-32d7-44a9-b64c-2ac3e7e475b1)
 
-Decompress/extract the xz compressed image .img.xz with 7-zip if you dont have 7-zip you could download it here https://www.7-zip.org/
+Decompress/extract the xz compressed image .img.xz with 7-zip if you dont have 7-zip you can download it here https://www.7-zip.org/
 ![image](https://github.com/evolutis101/Setting-Libre-computer-AML-S905X-CC-Le-Potato-/assets/36013919/f196262d-aa13-46e4-8b01-e476564e390b)
 
 
