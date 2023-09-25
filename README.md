@@ -1,8 +1,10 @@
 # Setting Libre computer AML S905X-CC LePotato
 ## Equipment
-### Libre computer AML S905X-CC LePotato
-### USB to micro USB cable to power LePotato
-### SD CARD, recommended online class 1 Samsung class 1 SD card ( used Samsung - EVO Plus 128GB microSDXC UHS-I Memory Card with Adapter, speed of software depends on SD card)
+- Libre computer AML S905X-CC LePotato
+- USB to micro USB cable to power LePotato
+- SD CARD, recommended online class 1 Samsung class 1 SD card ( used Samsung - EVO Plus 128GB microSDXC UHS-I Memory Card with Adapter, speed of software depends on SD card)
+- Mouse & keyboard
+- wifi adapter
 
 ## Software Procedure
 https://distro.libre.computer/ci/ubuntu/22.04/
