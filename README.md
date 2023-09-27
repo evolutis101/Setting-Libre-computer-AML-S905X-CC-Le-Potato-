@@ -1,4 +1,4 @@
-# Setting Libre computer AML S905X-CC LePotato
+# Setting Libre  AML S905X-CC LePotato
 ## Equipment
 - Libre computer AML S905X-CC LePotato
 - USB to micro USB cable to power LePotato
